@@ -3,11 +3,17 @@ body {
     font-family: "Verdana";
     color: white;
     text-align: center;
+    
 }
 
 .top h1 {
     font-size: 50px;
+    font-weight: normal;
 }
 .top a {
     color: aquamarine;
+}
+
+video {
+    object-fit: contain;
 }
