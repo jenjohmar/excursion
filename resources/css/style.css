@@ -17,3 +17,24 @@ body {
 video {
     object-fit: contain;
 }
+
+.travel-guide h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel-guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+.travel-guide p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
